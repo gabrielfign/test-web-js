@@ -1,6 +1,6 @@
-# Cypress Test POC
+# Test Web
 
-> Repositório de automação Web utilizando Cypress - Cucumber
+> Cypress - Cucumber
 
 - [Cypress.io](https://www.cypress.io/)
 - [Cucumber](https://cucumber.io/)
