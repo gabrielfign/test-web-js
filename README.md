@@ -28,7 +28,3 @@ $ npm run cypress:open
 ```shell
 $ npm run cypress:run
 ```
-
-### Integrações e Reports 
-
-- [Cypress Dashboard](https://dashboard.cypress.io/#/projects/24o64x/runs)
