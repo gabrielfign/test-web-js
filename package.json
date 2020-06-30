@@ -1,5 +1,5 @@
 {
-  "name": "test-cypress",
+  "name": "test-web-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielfign/test-cypress.git"
+    "url": "git+https://github.com/gabrielfign/test-web-js.git"
   },
   "keywords": [],
   "author": "Gabriel Figueiredo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gabrielfign/test-cypress/issues"
+    "url": "https://github.com/gabrielfign/test-web-js/issues"
   },
-  "homepage": "https://github.com/gabrielfign/test-cypress#readme",
+  "homepage": "https://github.com/gabrielfign/test-web-js#readme",
   "devDependencies": {
     "cypress": "^4.7.0",
     "cypress-cucumber-preprocessor": "^2.5.1"
