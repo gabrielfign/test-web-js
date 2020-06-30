@@ -1,1 +1,7 @@
-{}
+{
+    "baseUrl": "www.google.com",
+    "testFiles": "**/*.feature",
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+      }
+}

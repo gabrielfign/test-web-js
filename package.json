@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gabrielfign/test-cypress#readme",
   "devDependencies": {
-    "cypress": "^4.7.0"
+    "cypress": "^4.7.0",
+    "cypress-cucumber-preprocessor": "^2.5.1"
   }
 }
