@@ -10,7 +10,7 @@
 ## Instalação
 
 > Clonando o projeto
- - Url: https://github.com/gabrielfign/test-cypress.git
+ - Url: https://github.com/gabrielfign/test-web-js
 
 - Instalando as dependências package.json
 `npm install`
