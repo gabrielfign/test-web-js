@@ -1,7 +1,9 @@
 {
-    "baseUrl": "www.google.com",
-    "testFiles": "**/*.feature",
+    "baseUrl": "https://www.instagram.com/",
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": "*.js",
     "cypress-cucumber-preprocessor": {
-        "nonGlobalStepDefinitions": true
-      }
-}
+        "nonGlobalStepDefinitions": true,
+        "step_definitions": "cypress/support/step_definitions/"
+    }
+  }
